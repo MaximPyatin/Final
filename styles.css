@@ -99,6 +99,7 @@ body{
     height: 264px;
     border-radius: 14px;
     margin-left: 32vw;
+    margin-top:10vw;
     flex-direction: column;
     justify-content: center;
     align-items: center;
